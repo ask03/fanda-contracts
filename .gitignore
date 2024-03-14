@@ -15,3 +15,5 @@ node_modules
 
 # foundry files
 lib
+cache_forge
+out
